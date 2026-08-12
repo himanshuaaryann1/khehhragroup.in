@@ -23,7 +23,7 @@ export default function Founder() {
 
         <div className="mt-6 lg:mt-0">
           <span className="text-[11px] font-semibold uppercase tracking-[0.35em] text-blue">Meet the Founder</span>
-          <h2 className="mt-4 font-display text-4xl font-semibold text-navy sm:text-5xl">Shamsherr Ssiingh</h2>
+          <h2 className="mt-4 font-display text-4xl font-semibold text-navy sm:text-5xl">Shamsherr Ssingh</h2>
           <p className="mt-2 text-sm font-medium uppercase tracking-wider text-stone">
             Founder, Khehhra Group Private Limited
           </p>
@@ -31,7 +31,7 @@ export default function Founder() {
           <div className="mt-6 space-y-5 text-[15px] leading-relaxed text-stone lg:text-lg">
             <p>
               With a vision rooted in honesty and a deep understanding of the local Batala property market,
-              Shamsherr Ssiingh established Khehhra Group in 2017 to change the way people experience real
+              Shamsherr Ssingh established Khehhra Group in 2017 to change the way people experience real
               estate — replacing confusion and mistrust with clarity and confidence.
             </p>
             <p>
