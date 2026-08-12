@@ -99,7 +99,7 @@ export default function Hero() {
         </h1>
 
         <p className="reveal is-visible mt-4 max-w-2xl text-[1.05rem] font-medium leading-snug text-white/90 sm:text-[1.3rem] lg:text-[1.45rem]">
-          Your Trusted Property Partner in Batala
+          Your Trusted Property Partner in Batala, Amritsar, Gurdaspur & Dinanagar
         </p>
 
         <p className="reveal is-visible mt-4 max-w-xl font-display text-[1.05rem] font-medium leading-[1.35] tracking-[0.06em] text-champagne/95 sm:text-[1.2rem] lg:text-[1.45rem]">
