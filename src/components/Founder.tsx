@@ -31,7 +31,7 @@ export default function Founder() {
           <div className="mt-6 space-y-5 text-[15px] leading-relaxed text-stone lg:text-lg">
             <p>
               With a vision rooted in honesty and a deep understanding of the local Batala property market,
-              Shamsherr Ssingh established Khehhra Group in 2017 to change the way people experience real
+              Shamsherr Ssiingh established Khehhra Group in 2017 to change the way people experience real
               estate — replacing confusion and mistrust with clarity and confidence.
             </p>
             <p>
